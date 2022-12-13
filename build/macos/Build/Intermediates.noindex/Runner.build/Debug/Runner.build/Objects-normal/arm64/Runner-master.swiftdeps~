@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "5588d2a3ac3506a1a548703b16ce4bc932f6c2e0a6c6f47eb967c722c3ccff28"
+build_start_time: [1670958314, 432199001]
+build_end_time: [1670958314, 520237922]
+inputs:
+  "/Users/ikaruz/Programac\u0327a\u0303o/Cursos/Flutter/personal_expenses/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1670958295, 856988906]
+  "/Users/ikaruz/Programac\u0327a\u0303o/Cursos/Flutter/personal_expenses/macos/Runner/AppDelegate.swift": !private [1664987375, 0]
+  "/Users/ikaruz/Programac\u0327a\u0303o/Cursos/Flutter/personal_expenses/macos/Runner/MainFlutterWindow.swift": !private [1664987375, 0]
